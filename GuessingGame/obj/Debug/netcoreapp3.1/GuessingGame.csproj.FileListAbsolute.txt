@@ -1,0 +1,13 @@
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\mimi2\Desktop\самообучение\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache
